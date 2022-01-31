@@ -1,30 +1,47 @@
 # GitHub pages project
 
-Contexte:
+## Dofusquad
 
-Vous êtes un lead dev qui met en place un repository pour son équipe, toutes les bonnes pratiques doivent être mise en place pour garantir une bonne gestion de projet.
+## Available Scripts
 
-Ce qu'il faut faire:
-- [ ] Forker le projet disponible à [cette adresse](https://github.com/quentinhermiteau/github-pages-project)
-- [ ] Mettre en place toutes les bonnes pratiques autour du git flow
-- [ ] Rédiger un Readme (nom du projet, commande pour setup le projet, etc)
-- [ ] Mettre en place des templates pour les issues et les pull requests
-- [ ] Mettre en place une gestion de projet (+ labels)
-- [ ] Mettre en place une github pages avec un thème
-- [ ] Le projet devra contenir au moins 1 branche feature et 1 branche fix
-- [ ] Les commits doivent être correctement rédigés (ET SIGNÉS)
-- [ ] Tout travail doit être répertorié dans les issues et suivi avec la gestion de projet de GitHub
+In the project directory, you can run:
 
-Règles pour le projet:
-- Projet en individuel
-- Noté sur 7
+### `npm start`
 
-Notation:
-| à faire | point |
-| --- | --- |
-| Gitflow | 1 |
-| Readme | 1,5 |
-| templates | 1,5 |
-| Gestion de projet | 1 |
-| commits + signés | 1 |
-| Github pages | 1 |
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.<br />
+You will also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.<br />
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.<br />
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.<br />
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+# dofusquad
